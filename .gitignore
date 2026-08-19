@@ -1,0 +1,19 @@
+# Python virtual envo\ironment
+.venv/
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache
+
+# Generated security reports
+security_report.csv
+
+# IDE/editor files
+.vscode/
+.idea
+
+# Operating system files
+.DS_Store
+Thumbs.bd

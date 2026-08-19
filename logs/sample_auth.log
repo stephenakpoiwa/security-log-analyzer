@@ -1,0 +1,16 @@
+2026-08-08 08:15:21 INFO Login successful - User: admin - IP: 192.168.1.10
+2026-08-08 08:17:43 INFO Login successful - User: stephen - IP: 192.168.1.15
+2026-08-08 08:22:11 WARNING Failed login - User: admin - IP: 192.168.1.50
+2026-08-08 08:22:15 WARNING Failed login - User: admin - IP: 192.168.1.50
+2026-08-08 08:22:19 WARNING Failed login - User: admin - IP: 192.168.1.50
+2026-08-08 08:22:24 WARNING Failed login - User: admin - IP: 192.168.1.50
+2026-08-08 08:25:01 INFO Login successful - User: stephen - IP: 192.168.1.15
+2026-08-08 09:10:32 INFO Login successful - User: john - IP: 192.168.1.20
+2026-08-08 09:45:12 WARNING Failed login - User: john - IP: 192.168.1.60
+2026-08-08 09:45:18 WARNING Failed login - User: john - IP: 192.168.1.60
+2026-08-08 09:46:02 INFO Login successful - User: john - IP: 192.168.1.20
+2026-08-08 10:15:45 WARNING Failed login - User: admin - IP: 192.168.1.75
+2026-08-08 10:15:51 WARNING Failed login - User: admin - IP: 192.168.1.75
+2026-08-08 10:15:58 WARNING Failed login - User: admin - IP: 192.168.1.75
+2026-08-08 10:16:05 WARNING Failed login - User: admin - IP: 192.168.1.75
+2026-08-08 10:16:12 WARNING Failed login - User: admin - IP: 192.168.1.75

@@ -88,7 +88,7 @@ No external Python packages are currently required because the analyzer uses Pyt
 
 Run the analyzer by specifying the log file:
 ```PowerShell
-python analyzer.py --log logs/samples=auth.log
+python analyzer.py --log logs/samples_auth.log
 ```
 To view the available command-line options:
 ```PowerShell

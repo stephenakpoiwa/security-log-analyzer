@@ -174,7 +174,7 @@ The analyzer should be used only with logs that you are authorized to access and
 
 The current detection method is rule-based and should not be considered a complete intrusion-detection system.
 
-## Futures Improvements
+## Future Improvements
 
 Potential future improvements include:
 
